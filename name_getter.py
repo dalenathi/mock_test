@@ -1,5 +1,5 @@
 class NameGetter(object):
-
+""" adding doc string to this is cool"""
 	def get_name(self):
 		self.name = raw_input('enter your name: ')
 
